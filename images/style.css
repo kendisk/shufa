@@ -1,0 +1,87 @@
+BODY {
+	FONT-SIZE: 12px; SCROLLBAR-HIGHLIGHT-COLOR: #000000; SCROLLBAR-SHADOW-COLOR: #000000; LINE-HEIGHT: 20px; SCROLLBAR-ARROW-COLOR: white; FONT-FAMILY: Arial, Helvetica, sans-serif; SCROLLBAR-BASE-COLOR: #cccccc; scrollbar-3d-light-color: white; scrollbar-dark-shadow-color: cccccc
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 20px
+}
+.td1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #2386c0
+}
+.td2 {
+	FONT-SIZE: 12px; COLOR: #005500
+}
+.td3 {
+	FONT-SIZE: 20px; COLOR: #000000; LINE-HEIGHT: 20px
+}
+.tittle {
+	FONT-SIZE: 12px; COLOR: #000000
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #f5b900; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-WEIGHT: normal; COLOR: #f5b900
+}
+.A1:link {
+	FONT-SIZE: 12px;COLOR: #ffffff; TEXT-DECORATION: none
+}
+.A1:visited {
+	FONT-SIZE: 12px;COLOR: #ffffff; TEXT-DECORATION: none
+}
+.A1:active {
+	FONT-SIZE: 12px;COLOR: #f5b900; TEXT-DECORATION: none
+}
+.A1:hover {
+	FONT-SIZE: 12px;FONT-WEIGHT: normal; COLOR: #f5b900
+}
+.A11:link {
+	FONT-SIZE: 12px;FONT-WEIGHT: bold; COLOR: #000000; TEXT-DECORATION: none
+}
+.A11:visited {
+	FONT-SIZE: 12px;FONT-WEIGHT: bold; COLOR: #000000; TEXT-DECORATION: none
+}
+.A11:active {
+	FONT-SIZE: 12px;FONT-WEIGHT: bold; COLOR: #f5b900; TEXT-DECORATION: none
+}
+.A11:hover {
+	FONT-SIZE: 12px;FONT-WEIGHT: bold; COLOR: #f5b900
+}
+.A2:link {
+	FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.A2:visited {
+	FONT-WEIGHT: bold; COLOR: #ccccca; TEXT-DECORATION: underline
+}
+.A2:active {
+	FONT-WEIGHT: bold; COLOR: #ff9900; TEXT-DECORATION: underline
+}
+.A2:hover {
+	FONT-WEIGHT: bold; COLOR: #ff9900; TEXT-DECORATION: underline
+}
+.A3:link {
+	FONT-WEIGHT: bold; COLOR: #000000
+}
+.A3:visited {
+	FONT-WEIGHT: bold; COLOR: #ffffff
+}
+.A3:active {
+	FONT-WEIGHT: bold; COLOR: #ffffff
+}
+.A3:hover {
+	FONT-WEIGHT: bold; COLOR: #ff9900
+}
+INPUT.in {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #cccccc 1px solid; COLOR: #000000; BORDER-BOTTOM: #cccccc 1px solid; HEIGHT: 16px; BACKGROUND-COLOR: #c6d3b5
+}
+.style1 {
+	COLOR: #999999
+}
+.SE01 {
+	FONT-SIZE: 12px; FILTER: dropshadow(OffX=1,OffY=1,Color=#DBDBDB); HEIGHT: 0px
+}
